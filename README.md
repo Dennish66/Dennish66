@@ -1,4 +1,4 @@
-### Hi there, I am Dennish Bhattarai- A Passionate Frontend Developer From Nepal 👋
+### 👋  Hi there, I am Dennish Bhattarai- A Passionate Frontend Developer From Nepal
 
 ### I'm a Learner, Developer and System Administrator.
 
